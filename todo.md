@@ -1,11 +1,11 @@
 # TODO
 1.1 Godkänt
 Följande punkter skall behandlas och besvaras
-– [ ] Analysera de tre olika dataseten och välj det som du anser har bäst kvalitet.
-    – [ ] Saknas värden?
-    – [ ] Finns dubbletter?
-    – [ ] Finns extremvärden?
-    – [ ] Annat?
+– [x] Analysera de tre olika dataseten och välj det som du anser har bäst kvalitet.
+    – [x] Saknas värden?
+    – [x] Finns dubbletter?
+    – [x] Finns extremvärden?
+    – [x] Annat?
 – [ ] Rita ut all data (med klasserna i olika färger)
     – [ ] Ser det ut som att det är möjligt att skapa en bra klassificering?
 – [ ] Träna en Support Vector Machine
