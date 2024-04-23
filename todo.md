@@ -6,12 +6,12 @@ Följande punkter skall behandlas och besvaras
     – [x] Finns dubbletter?
     – [x] Finns extremvärden?
     – [x] Annat?
-– [ ] Rita ut all data (med klasserna i olika färger)
-    – [ ] Ser det ut som att det är möjligt att skapa en bra klassificering?
-– [ ] Träna en Support Vector Machine
-    – [ ] För att smidigt kunna rita ut hyperplanet rekommenderas det att använda linjär kernel.
-    – [ ] Testa gärna andra för att se om testscoren för modellen ändras.
-– [ ] Vad får modellen för testscore?
+– [x] Rita ut all data (med klasserna i olika färger)
+    – [x] Ser det ut som att det är möjligt att skapa en bra klassificering?
+– [x] Träna en Support Vector Machine
+    – [x] För att smidigt kunna rita ut hyperplanet rekommenderas det att använda linjär kernel.
+    – [x] Testa gärna andra för att se om testscoren för modellen ändras.
+– [x] Vad får modellen för testscore?
 – [ ] Rita åter ut datan, men med hyperplanet för din SVM
     – [ ] Rita ut hyperplanet med testdata
 1.2 Väl Godkänt
