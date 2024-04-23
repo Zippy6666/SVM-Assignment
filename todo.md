@@ -7,7 +7,7 @@ Följande punkter skall behandlas och besvaras
     – [ ] Finns extremvärden?
     – [ ] Annat?
 – [ ] Rita ut all data (med klasserna i olika färger)
-    – [ ] Ser det ut som att det är mo ̈jligt att skapa en bra klassificering?
+    – [ ] Ser det ut som att det är möjligt att skapa en bra klassificering?
 – [ ] Träna en Support Vector Machine
     – [ ] För att smidigt kunna rita ut hyperplanet rekommenderas det att använda linjär kernel.
     – [ ] Testa gärna andra för att se om testscoren för modellen ändras.
